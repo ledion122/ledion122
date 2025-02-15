@@ -9,7 +9,7 @@
   <img style="withd:6000px; height:200px;" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 </p>
 <div align="center">
-  <h2>Full-stack soon</h2>
+  <h2>Full-stack Soon</h2>
   <p>
    🚀 I am currently a third-year college student  in <strong>Jcoders Academy</strong>
   </p>
