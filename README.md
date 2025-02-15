@@ -15,7 +15,7 @@
   <p>💬 Ask me about <strong>Javascript, HTML, CSS ... or anything <a href="https://github.com/kad-f">here</a></strong></p>
 </div>
 <div align="center">
-  <a href="mailto:keyanandydelgado@gmail.com">
+  <a href="mailto:ledionshaljani92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
   </a>
   <a href="https://facebook.com/ledi.shaljani">
