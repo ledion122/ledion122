@@ -34,4 +34,28 @@
 </div>
 <hr>
 
-
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">    def</span><span style="color:#79B8FF"> __str__</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#F97583">        return</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.name</span></span>
+<span class="line"></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">if</span><span style="color:#79B8FF"> __name__</span><span style="color:#F97583"> ==</span><span style="color:#9ECBFF"> '__main__'</span><span style="color:#E1E4E8">:</span></span>
+<span class="line"><span style="color:#E1E4E8">    me </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> RafnixG()</span></span>
+<span class="line"></span>
+<span class="line"></span></code></pre>
+<h2 id="get-in-touch">Get in touch</h2>
+<ul>
+<li>Twitter: <a href="https://twitter.com/rafnixg">https://twitter.com/rafnixg</a></li>
+<li>Personal Site: <a href="https://rafnixg.dev">https://rafnixg.dev</a></li>
+</ul>
+<h2 id="latest-posts-spanish">Latest Posts (Spanish)</h2>
+<ul>
+<li>
+<p><a href="http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-3/">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 3</a></p>
+</li>
+<li>
+<p><a href="http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-2/">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 2</a></p>
+</li>
+<li>
+<p><a href="http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-1/">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 1</a></p>
+</li>
