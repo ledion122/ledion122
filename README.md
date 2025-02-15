@@ -35,10 +35,7 @@
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kad-f&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs">
 </div>
 <hr>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
-</h3> 
-**<hr>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
   Me as a code... 
