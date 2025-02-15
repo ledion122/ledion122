@@ -1,3 +1,6 @@
+  <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png">
+</p>
 
   <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f">
