@@ -43,3 +43,40 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
 </h3> 
+**<hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">import</span><span style="color:#E1E4E8"> { Akshat } </span><span style="color:#F97583">from</span><span style="color:#9ECBFF"> "Awesome"</span><span style="color:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> languages</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Typescript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Javascript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Dart"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"C++"</span><span style="color:#E1E4E8">];</span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> frameworks</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">"Flutter"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Angular"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"React"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Django"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"NestJS"</span><span style="color:#E1E4E8">];</span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> databases</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">"PostgreSQL"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"CloudFireStore"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Oracle"</span><span style="color:#E1E4E8">];</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#E1E4E8">Akshat.skills.</span><span style="color:#B392F0">push</span><span style="color:#E1E4E8">(</span><span style="color:#F97583">...</span><span style="color:#E1E4E8">languages, </span><span style="color:#F97583">...</span><span style="color:#E1E4E8">frameworks, </span><span style="color:#F97583">...</span><span style="color:#E1E4E8">databases);</span></span></code></pre>
+<hr>
+<p align="center">
+  <a href="https://github.com/dev-akshat/state-of-matter">
+    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&amp;repo=state-of-matter">
+  </a>
+  <a href="https://github.com/dev-akshat/HackerNews">
+    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&amp;repo=HackerNews">
+  </a>
+</p>
+<hr>
+<p align="center">
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=30,434343,000000&amp;title_color=fe428e&amp;text_color=f1f1eb">
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&amp;layout=compact&amp;langs_count=10&amp;hide=html,css&amp;bg_color=30,000000,434343&amp;title_color=fe428e&amp;text_color=f1f1eb">
+</p>
+<br>
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views"> 
+</p>
+<hr>**
