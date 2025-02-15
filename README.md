@@ -12,7 +12,7 @@
 </div>
 <div align="center">
   <p>🌱 I’m currently learning <strong>NODE JS</strong></p>
-  <p>💬 Ask me about <strong>Javascript, C, C++, PHP... or anything <a href="https://github.com/kad-f">here</a></strong></p>
+  <p>💬 Ask me about <strong>Javascript, HTML, CSS ... or anything <a href="https://github.com/kad-f">here</a></strong></p>
 </div>
 <div align="center">
   <a href="mailto:keyanandydelgado@gmail.com">
