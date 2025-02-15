@@ -58,17 +58,3 @@
   </a>
 </p>
 <hr>
-<p align="center">
-  <img align="center" alt="ledion122's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ledion122;show_icons=true&amp;include_all_commits=true&amp;bg_color=30,434343,000000&amp;title_color=fe428e&amp;text_color=f1f1eb">
-  <img align="center" alt="ledion122's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ledion122;layout=compact&amp;langs_count=10&amp;hide=html,css&amp;bg_color=30,000000,434343&amp;title_color=fe428e&amp;text_color=f1f1eb">
-</p>
-<br>
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views"> 
-</p>
-<hr>
