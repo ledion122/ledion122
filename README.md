@@ -21,7 +21,7 @@
   <a href="https://facebook.com/ledi.shaljani">
     <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
   </a>
-  <a href="https://www.instagram.com/https.keyan/">
+  <a href="https://www.instagram.com/ledionshaljan_/">
     <img alt="Instagram" title="" &#x22;follow="" on="" instagram&#x22;="" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
   </a>
 </div>
