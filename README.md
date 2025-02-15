@@ -18,7 +18,7 @@
   <a href="mailto:keyanandydelgado@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
   </a>
-  <a href="facebook.com/ledi.shaljani">
+  <a href="https://facebook.com/ledi.shaljani">
     <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
   </a>
   <a href="https://www.instagram.com/https.keyan/">
