@@ -28,8 +28,8 @@
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,express,mongodb,java"><br>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git">
+  <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb"><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git">
 </div>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
