@@ -5,13 +5,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 </p>
 <div align="center">
-  <h2>Aspiring Software Engineer</h2>
+  <h2></h2>
   <p>
-   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
+   🚀 I am currently a third-year college student  in <strong>Jcoders Academy</strong>
   </p>
 </div>
 <div align="center">
-  <p>🌱 I’m currently learning <strong>MERN Stack</strong></p>
+  <p>🌱 I’m currently learning <strong>NODE JS</strong></p>
   <p>💬 Ask me about <strong>Javascript, C, C++, PHP... or anything <a href="https://github.com/kad-f">here</a></strong></p>
 </div>
 <div align="center">
