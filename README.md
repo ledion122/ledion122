@@ -32,9 +32,5 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git">
 </div>
 <hr>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kad-f&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs">
-</div>
-<hr>
-
 
 
