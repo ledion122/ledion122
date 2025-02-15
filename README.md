@@ -32,30 +32,24 @@
   <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb"><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git">
 </div>
-<hr>
 
+
+
+
+<hr>
+<span class="line"><span style="color:#F97583">    def</span><span style="color:#79B8FF"> __init__</span><span style="color:#E1E4E8">(self):</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.username </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> 'rafnixg'</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> 'Rafnix Guzmán'</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.web </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> 'https://rafnixg.dev'</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.twitter </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> '@rafnixg'</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.code </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> {</span></span>
+<span class="line"><span style="color:#9ECBFF">            'frontend'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'HTML'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'CSS'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'JavaScript'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'ReactJS'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Svelte'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Boostrap'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'TailWind'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'backend'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Python'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'PHP'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Flask'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Django'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Laravel'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'NodeJS'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Odoo'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'database'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'PostgreSQL'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'MySQL'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'SQLite3'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Mongo DB'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'devops'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Docker'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Nginx'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Jenkins'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'GitHub Actions'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'AWS'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Heroku'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'tools'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'GIT'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'GitHub'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'GitLab'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Pandas'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Jupyter notebook'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'SQLAlchemy'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Redis'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Celery'</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#9ECBFF">            'misc'</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">'Firebase'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'TDD'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'SCRUM'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'SOLID'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'GNU/Linux'</span><span style="color:#E1E4E8">]</span></span>
+<span class="line"><span style="color:#E1E4E8">        }</span></span>
+<span class="line"><span style="color:#79B8FF">        self</span><span style="color:#E1E4E8">.architecture </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">'SPA'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'MVC'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'Serverless'</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">'microservices'</span><span style="color:#E1E4E8">]</span></span>
 <span class="line"></span>
 <span class="line"><span style="color:#F97583">    def</span><span style="color:#79B8FF"> __str__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#F97583">        return</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.name</span></span>
-<span class="line"></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">if</span><span style="color:#79B8FF"> __name__</span><span style="color:#F97583"> ==</span><span style="color:#9ECBFF"> '__main__'</span><span style="color:#E1E4E8">:</span></span>
-<span class="line"><span style="color:#E1E4E8">    me </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> RafnixG()</span></span>
-<span class="line"></span>
-<span class="line"></span></code></pre>
-<h2 id="get-in-touch">Get in touch</h2>
-<ul>
-<li>Twitter: <a href="https://twitter.com/rafnixg">https://twitter.com/rafnixg</a></li>
-<li>Personal Site: <a href="https://rafnixg.dev">https://rafnixg.dev</a></li>
-</ul>
-<h2 id="latest-posts-spanish">Latest Posts (Spanish)</h2>
-<ul>
-<li>
-<p><a href="http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-3/">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 3</a></p>
-</li>
-<li>
-<p><a href="http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-2/">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 2</a></p>
-</li>
-<li>
-<p><a href="http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-1/">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 1</a></p>
-</li>
