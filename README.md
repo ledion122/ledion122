@@ -43,8 +43,7 @@
 </p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">import</span><span style="color:#E1E4E8"> { Akshat } </span><span style="color:#F97583">from</span><span style="color:#9ECBFF"> "Awesome"</span><span style="color:#E1E4E8">;</span></span>
 <span class="line"></span>
-<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> languages</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">"Javascript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"NodeJS"</span><span style="color:#E1E4E8">,span></span>
+<span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> languages</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">"Javascript"</span><span style="color:#E1E4E8">, </span><span> style="color:#9ECBFF">"NodeJS"</span><span style="color:#E1E4E8">,span></span>
 <span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> frameworks</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [</span><span style="color:#9ECBFF">"Flutter"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Angular"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"React"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Django"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"NestJS"</span><span style="color:#E1E4E8">];</span></span>
-<span class="line"><span style="color:#E1E4E8">Ledion.skills.</span><span style="color:#B392F0">push</span><span style="color:#E1E4E8">(</span><span style="color:#F97583">...</span><span style="color:#E1E4E8">languages, </span><span style="color:#F97583">...</span><span style="color:#E1E4E8">frameworks, </span><span style="color:#F97583">...</span><span style="color:#E1E4E8">databases);</span></span></code></pre>
-<hr>
+
 
