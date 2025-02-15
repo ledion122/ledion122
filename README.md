@@ -59,8 +59,8 @@
 </p>
 <hr>
 <p align="center">
-  <img align="center" alt="Ledion's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=30,434343,000000&amp;title_color=fe428e&amp;text_color=f1f1eb">
-  <img align="center" alt="Ledion's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ledion112;layout=compact&amp;langs_count=10&amp;hide=html,css&amp;bg_color=30,000000,434343&amp;title_color=fe428e&amp;text_color=f1f1eb">
+  <img align="center" alt="ledion122's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ledion122;show_icons=true&amp;include_all_commits=true&amp;bg_color=30,434343,000000&amp;title_color=fe428e&amp;text_color=f1f1eb">
+  <img align="center" alt="ledion122's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ledion122;layout=compact&amp;langs_count=10&amp;hide=html,css&amp;bg_color=30,000000,434343&amp;title_color=fe428e&amp;text_color=f1f1eb">
 </p>
 <br>
 <p align="center"> 
